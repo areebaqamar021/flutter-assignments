@@ -25,7 +25,7 @@ class _userinfoState extends State<userinfo> {
           actions: <Widget>
           [
             IconButton(
-              icon: Icon(Icons.add_alert),
+              icon: Icon(Icons.notifications),
               color: Colors.black,
               onPressed: (){
 
